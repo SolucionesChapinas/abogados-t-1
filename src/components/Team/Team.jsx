@@ -5,7 +5,7 @@ const teamData = [
     id: 1,
     name: "Carlos Rodríguez",
     position: "Socio Fundador",
-    image: "/images/team-1.webp",
+    image: "/abogados-t-1/images/team-1.webp",
     social: {
       linkedin: "#",
       twitter: "#",
@@ -16,7 +16,7 @@ const teamData = [
     id: 2,
     name: "Ana Martínez",
     position: "Derecho Mercantil",
-    image: "/images/team-2.webp",
+    image: "/abogados-t-1/images/team-2.webp",
     social: {
       linkedin: "#",
       twitter: "#",
@@ -27,7 +27,7 @@ const teamData = [
     id: 3,
     name: "Miguel Sánchez",
     position: "Derecho Penal",
-    image: "/images/team-3.webp",
+    image: "/abogados-t-1/images/team-3.webp",
     social: {
       linkedin: "#",
       twitter: "#",
@@ -38,7 +38,7 @@ const teamData = [
     id: 4,
     name: "Luis Gómez",
     position: "Derecho Familiar",
-    image: "/images/team-4.jpg",
+    image: "/abogados-t-1/images/team-4.jpg",
     social: {
       linkedin: "#",
       twitter: "#",
